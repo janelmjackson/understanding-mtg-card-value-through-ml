@@ -5,6 +5,6 @@ To Access our Project Report for results, please follow the link:
 https://docs.google.com/document/d/1Z-86WM3GzEzwVMMQUOCYA1hIvUjlKeAVJT_MF1x1hHU/edit?usp=sharing
 
 To access the source data, see the links below for:
-MTGJSON : https://mtgjson.com/api/v5/
-Scryfall API : https://scryfall.com/docs/api/bulk-data
+<br> MTGJSON : https://mtgjson.com/api/v5/
+<br> Scryfall API : https://scryfall.com/docs/api/bulk-data
 
