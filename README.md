@@ -1,7 +1,9 @@
 # Understanding Magic: the Gathering Card Value through Machine Learning
 We aim to predict a card’s market price value using datasets containing Magic: the Gathering (MTG), a collectible card game, card statistics and by identifying patterns of price in relation to card elements like (artwork, mana-value (in-game resource cost), rarity, etc.) and in-dataset customer metrics like saltiness rating.
 
-To Access our Project Report for results, please follow the link:
+The original analyses and project report were completed on March 3, 2026, by Sophia Chang, Janel Jackson (janeljac-umich), and Jessica Lan for SIADS 696 – Capstone II in the University of Michigan Master of Applied Data Science program. Unless otherwise specified in a commit, all repository updates after March 3, 2026, were made by Janel Jackson (janelmjackson).
+
+To Access the Project Report for results, please follow the link:
 https://docs.google.com/document/d/1Z-86WM3GzEzwVMMQUOCYA1hIvUjlKeAVJT_MF1x1hHU/edit?usp=sharing
 
 To access the source data, see the links below for:
