@@ -3,8 +3,9 @@ We aim to predict a card’s market price value using datasets containing Magic:
 
 The original analyses and project report were completed on March 3, 2026, by Sophia Chang, Janel Jackson (janeljac-umich), and Jessica Lan for SIADS 696 – Capstone II in the University of Michigan Master of Applied Data Science program. Unless otherwise specified in a commit, all repository updates after March 3, 2026, were made by Janel Jackson (janelmjackson).
 
-To Access the Project Report for results, please follow the link:
-https://docs.google.com/document/d/1Z-86WM3GzEzwVMMQUOCYA1hIvUjlKeAVJT_MF1x1hHU/edit?usp=sharing
+To Access the original analysis and Project Report for results, please follow the link:
+<br> GitHub Repo from March 3rd, 2026: https://https://github.com/janeljac-umich/understanding-mtg-card-value-through-ml
+<br> Project Report: https://docs.google.com/document/d/1Z-86WM3GzEzwVMMQUOCYA1hIvUjlKeAVJT_MF1x1hHU/edit?usp=sharing
 
 To access the source data, see the links below for:
 <br> MTGJSON : https://mtgjson.com/api/v5/
